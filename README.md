@@ -1,6 +1,7 @@
 # Submission Dicoding Fundamental Aplikasi Android
 
 *Submission 1 : Aplikasi GitHub User*
+
 Fitur yang harus ada pada aplikasi:
 1. List User
      - Menampilkan data pada halaman aplikasi dengan minimal jumlah 10 item.
@@ -37,6 +38,7 @@ Kerangka tampilan yang digunakan sebagai referensi:
 
 
 *Submission Akhir : Aplikasi Github User*
+
 Fitur yang harus ada pada aplikasi:
 1. Favorite User dengan Database
       - Aplikasi harus bisa menambah dan menghapus user dari daftar favorite.
